@@ -76,7 +76,7 @@
                     <InstallFrom>
                         <MetaData wcm:action="add">
                             <Key>/IMAGE/NAME</Key>
-                            <Value>Windows 11 Pro</Value>
+                            <Value>Windows 11 </Value>
                         </MetaData>
                     </InstallFrom>
                 </OSImage>
